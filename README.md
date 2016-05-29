@@ -1,2 +1,2 @@
 # Server
-multiple player pokemon server
+Multiplayer Pokemon server
